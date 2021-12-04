@@ -1,0 +1,13 @@
+{
+   "name": "simple-discord-minecraft-bot",
+   "version": "1.0.0",
+   "main": "index.js",
+   "license": "MIT",
+   "repository": "https://github.com/xMdb/simple-discord-minecraft-bot",
+   "author": "xMdb",
+   "dependencies": {
+      "discord.js": "^13.3.1",
+      "dotenv": "^10.0.0",
+      "mineflayer": "^3.11.2"
+   }
+}
